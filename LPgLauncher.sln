@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPgLauncher", "LPgLauncher\LPgLauncher.csproj", "{7C094CFC-B32C-42E5-9A1C-0A5441E5F0FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C094CFC-B32C-42E5-9A1C-0A5441E5F0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C094CFC-B32C-42E5-9A1C-0A5441E5F0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C094CFC-B32C-42E5-9A1C-0A5441E5F0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C094CFC-B32C-42E5-9A1C-0A5441E5F0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FB9C023-54C6-4276-A333-8CF9F8112F38}
+	EndGlobalSection
+EndGlobal
